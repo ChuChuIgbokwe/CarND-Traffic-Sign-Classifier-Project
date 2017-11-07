@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenet2_2002"
+all_model_checkpoint_paths: "lenet2_2002"
